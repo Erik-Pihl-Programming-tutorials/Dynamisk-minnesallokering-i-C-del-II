@@ -5,4 +5,4 @@ Filen "func.c" innehåller funktioner som vidareutvecklar innehållet i föregå
 
 Resterande filer "main.c", "int_vector.h" samt "int_vector.c" utgör ett program med en strukt döpt int_vector för lagring av heltal i dynamisk arrayer (vektorer).
 
-Se video tutorial här: https://youtu.be/UPHlRGtE33A
+Se video tutorial här: https://youtu.be/LPJksW2cik8
